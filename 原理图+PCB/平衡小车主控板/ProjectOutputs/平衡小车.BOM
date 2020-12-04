@@ -1,0 +1,43 @@
+Bill of Material for 
+On 2017/7/5 at 10:22:12
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+                     LC-0603_R        1    R2                                                
+                     LC-HC-49S        2    Y1, Y2                       Crystal Oscillator   
+ 0.022uf             LC-0603_C        1    C7                           Capacitor            
+ 0.1uf               LC-0603_C       16    C1, C5, C8, C9, C10, C11, C13                      
+                                           C15, C17, C21, C22, C23, C93
+                                           C94, C95, C96
+ 1.5K                LC-0603_R        1    R12                                               
+ 100Uf               100UF钽电容         1    C18                          Polarized Capacitor (Radial) 
+ 100uf               LC-1206_C        1    C19                          Polarized Capacitor (Radial) 
+ 10K                 LC-0603_R        5    R1, R4, R5, R11, R13                              
+ 1k                  LC-0603_R        3    R3, R9, R10                                       
+ 1uF                 LC-0603_C        2    C2, C6                                            
+ 20pf                LC-0603_C        4    C3, C4, C14, C16                                  
+ 22uf                LC-0805_C        1    C12                                               
+ 22uf                LC-0805_R        1    C20                          Polarized Capacitor (Axial) 
+ 33UH                330电感            1    L1                                                
+ 4.7k                LC-0603_R        2    R6, R7                                            
+ AMS1117_1           LC-SOT-223       1    U3                           3.3V电压转换器AMS1117     
+ BOOT                HDR1X3           1    P1                           Header, 3-Pin        
+ CH340G              SO-16            1    4                                                 
+ ES2D                LC-DO-213AB      1    D5                                                
+ Header 2            VBAT             1    J1                           Header, 2-Pin        
+ Header 3            HDR1X3           1    CK1                          Header, 3-Pin        
+ Header 4            HDR1X4           1    CSB1                         Header, 4-Pin        
+ Header 4X2          HDR2X4           1    PW                           Header, 4-Pin, Dual row 
+ Header 5            HDR1X5           1    CCD1                         Header, 5-Pin        
+ Header 6            HDR1X6           4    AMOTOR1, BMOTOR1, MOTO, OLED1 Header, 6-Pin        
+ LED0                LC-0805_LED_S1    4    D1, D2, D3, D4               Typical INFRARED GaAs LED 
+ LM2596t-5v          LC-TO-263-5      1    5                            Simple Switcher 3A Step Down Voltage Regulator 
+ MPU6050             LC-QFN-24_4x4x05P    1    2                            9轴运动处理传感器            
+ NRF24L01            LC-HDR2X4H       1    1                            Header, 4-Pin, Dual row, Right Angle 
+ SPP-C               SPP-C            1    BT1                          sppc                 
+ STM32F103C8T6       LC-LQFP-48_7x7x05P    1    U1                           STM32 ARM-based 32-bit MCU with 64 Kbytes Flash, 48-pin LQFP, Industrial Temperature 
+ SWD                 HDR1X4           1    SWD1                         Header, 4-Pin        
+ SW-PB               KEY              2    S1, S2                       Switch               
+ SW-PB               钮子开关             1    S3                           Switch               
+ TB6612              TB6612           1    3                                                 
+ USB_CONNECTOR       MINI_USB_FEMALE    1    U2                                                
